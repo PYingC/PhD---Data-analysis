@@ -11,10 +11,10 @@ The purpose of this scientific research was to gain insight into the role of the
 extracted data from video files and conducted four main analyses. 
 
 ### Scripts in this repository
-1. Image processing and data analysis.
+1. [Image processing and data analysis.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt1.%20Image%20processing%20and%20data%20extraction%20from%20images.pdf)
    <br />**Description:** To extract relevant data from video files for analysis.
 
-2. Investigating brain activity in a model with a specific gene removed.
+2. [Investigating brain activity in a model with a specific gene removed.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt2.%20Statistical%20Analysis.pdf)
    <br />**Description:** Performed statistical analysis on data to determine if differences were observed in the model with the specific gene removed.
 
 3. Reducing signal contamination in video files. 
