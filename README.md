@@ -19,9 +19,13 @@ extracted data from video files and conducted four main analyses.
 
 3. Reducing signal contamination in video files. 
    <br />**Description:** Used principle components analysis (PCA) and independent component analysis (ICA) to reduce signal contamination in video files.
+   <br /> _Work in progress, watch this space_
 
-4. Correlation analysis between different regions of the brain.
-    <br />**Description:** Determined functional connectivity between regions of the brain using Pearson's correlation analysis and linear regression.
-
-5. Tonotopy mapping
+5. Correlation analysis between different regions of the brain.
+    <br />**Description:** Determined functional connectivity between regions of the brain using Pearson's correlation analysis and
+    linear regression.
+    <br /> _Work in progress, watch this space_
+   
+7. Tonotopy mapping
    <br />**Description:** To create a reliable method to measure how the brain organises different sounds. 
+   <br /> _Work in progress, watch this space_
