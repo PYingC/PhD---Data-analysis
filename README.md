@@ -7,8 +7,8 @@ All scripts used in my PhD thesis is found in the [Cheyne Lab Github repository]
 ### Brief description of my PhD research:
 I investigated brain activity in the region of the brain responsible for processing sound (the auditory cortex) from a model with a specific gene removed. 
 The gene in question plays a role in maintaining stable connections between brain cells, which is important for normal brain functions. 
-The purpose of this scientific research was to gain insight into the role of the gene in brain functions relating to sound processing. To answer this scientific question, I 
-extracted data from video files and conducted four main analyses. 
+The purpose of this scientific research was to gain insight into the role of the gene in brain functions relating to sound processing. To answer this scientific question,
+I extracted and processed data from video files and conducted three main analyses. 
 
 ### Scripts in this repository
 1. [Reducing signal contamination in video files.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt1.%20Reducing%20signal%20contamination%20in%20video%20files.pdf)
