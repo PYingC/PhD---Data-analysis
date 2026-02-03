@@ -11,10 +11,10 @@ The purpose of this scientific research was to gain insight into the role of the
 extracted data from video files and conducted four main analyses. 
 
 ### Scripts in this repository
-1. [Reducing signal contamination in video files.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt1.%20Reducing%20signal%20contamination%20in%20video%20files.pdf) 
+1. [Reducing signal contamination in video files.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt1.%20Reducing%20signal%20contamination%20in%20video%20files.pdf)
    <br />**Description:** Used principle components analysis (PCA) and independent component analysis (ICA) to reduce signal contamination in video files.
 
-2. [Image processing and data analysis.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt2.%20Image%20processing%20and%20data%20extraction%20from%20images.pdf))
+2. [Image processing and data analysis.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt2.%20Image%20processing%20and%20data%20extraction%20from%20images.pdf)
    <br />**Description:** To extract relevant data from video files for analysis.
 
 3. [Investigating brain activity in a model with a specific gene removed.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt3.%20Statistical%20Analysis.pdf)
