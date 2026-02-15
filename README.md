@@ -26,5 +26,5 @@ I extracted and processed data from video files and conducted three main analyse
     <br /> _Work in progress, watch this space_
    
 5. Tonotopy mapping
-   <br />**Description:** To create a reliable method to measure how the brain organises different sounds. 
+   <br />**Description:** To create a reliable method to measure the organisation of sound processing in the brain.
    <br /> _Work in progress, watch this space_
