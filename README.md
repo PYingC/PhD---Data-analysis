@@ -1,5 +1,5 @@
 # PhD---Data-analysis
-This repository contains descriptions of MATLAB scripts developed for data analysis as part of my PhD.  
+This repository contains descriptions of the custom-written MATLAB scripts I developed for data analysis for my PhD.  
 The full content of my PhD can be found in the [University of Auckland Doctoral Thesis
 Repository](https://researchspace.auckland.ac.nz/items/0f9a32c3-04a2-40f5-b45f-1fe59bb2bfbd). 
 All scripts used in my PhD thesis is found in the [Cheyne Lab Github repository](https://github.com/juliettecheyne/cheyne_lab/tree/main/Pang%20Ying%20Cheung%20Thesis).
@@ -8,7 +8,7 @@ All scripts used in my PhD thesis is found in the [Cheyne Lab Github repository]
 I investigated brain activity in the region of the brain responsible for processing sound (the auditory cortex) from a model with a specific gene removed. 
 The gene in question plays a role in maintaining stable connections between brain cells, which is important for normal brain functions. 
 The purpose of this scientific research was to gain insight into the role of the gene in brain functions relating to sound processing. To answer this scientific question,
-I extracted and processed data from video files and conducted three main analyses. 
+I extracted and processed data from video files and performed a range of analyses to give evidence-based conclusions. 
 
 ### Scripts in this repository
 1. [Reducing signal contamination in video files.](https://github.com/PYingC/PhD---Data-analysis/blob/main/Pt1.%20Reducing%20signal%20contamination%20in%20video%20files.pdf)
