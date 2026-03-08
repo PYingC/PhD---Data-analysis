@@ -1,6 +1,6 @@
 # PhD---Data-analysis
 I developed two analysis pipelines for my PhD which allowed analysis of large and complex data that was previously
-infeasible to do manually. This repository contains descriptions of the main custom-written MATLAB scripts I developed for data analysis 
+infeasible to do manually. This repository contains descriptions of the main custom-written MATLAB scripts I developed for data analysis.
 The full content of my PhD can be found in the [University of Auckland Doctoral Thesis
 Repository](https://researchspace.auckland.ac.nz/items/0f9a32c3-04a2-40f5-b45f-1fe59bb2bfbd). 
 All scripts used in my PhD thesis (pipeline and ad hoc) is found in the [Cheyne Lab Github repository](https://github.com/juliettecheyne/cheyne_lab/tree/main/Pang%20Ying%20Cheung%20Thesis).
